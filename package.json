@@ -1,0 +1,19 @@
+{
+  "name": "react-nextjs",
+  "version": "1.0.0",
+  "description": "This a test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "komphet",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "next": "^3.0.1-beta.8",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
